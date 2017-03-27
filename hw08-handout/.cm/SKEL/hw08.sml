@@ -1,0 +1,2 @@
+Skeleton 5
+d7f3дўSeq"d"Word31"дўWord32"aгўPIXEL"и0CaдўPairPixel"jя%зр±яaдўWord32Utils"jя%я%aеўTest"i2бдўP"я8f1яЃя%aдўWordPixel"jh2egp1я>f1яя8ad"TestPair"jgp1я)зр±яЃCad"TestWord"jзр±яЃ*я‚aгўIMAGE_TRANSFORMATIONS"h1яЃaеўImages"i2aдўPix"я8f1яjh1aяЃgp1яѓзр±я‚5aеўRemoveRedTest"i2aдўI"яѓ8f2я„яя%ad"TestRR"jjя‚+gp1яѓgp1яѓ?N
